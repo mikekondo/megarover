@@ -1,6 +1,6 @@
 # megarover
 
-#使用するためのROSpackage
+# 使用するためのROSpackage
 
 ・sudo apt install ros-melodic-gmapping
 
