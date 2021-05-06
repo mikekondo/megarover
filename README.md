@@ -19,9 +19,10 @@ WPT_Robotはプログラミング言語 C++で記述されています。
 ```
 roslaunch megarover_samples vmegarover_with_sample_world.launch
 ```
-![megarover2](https://user-images.githubusercontent.com/65348333/117230794-c6c3ae00-ae58-11eb-8431-25347d852faf.png)
 
 ![megarover](https://user-images.githubusercontent.com/65348333/117230798-c9260800-ae58-11eb-8388-f78920fba7c7.png)
+
+![megarover2](https://user-images.githubusercontent.com/65348333/117230794-c6c3ae00-ae58-11eb-8431-25347d852faf.png)
 
 # 使用するためのROSpackage
 
