@@ -27,7 +27,7 @@ roslaunch megarover_samples vmegarover_with_sample_world.launch
 
 ![megarover2](https://user-images.githubusercontent.com/65348333/117230794-c6c3ae00-ae58-11eb-8431-25347d852faf.png)
 
-# 使用するためのROSpackage
+# 使用するためのROSpackage(ディストリビューションがmelodicの場合)
 
 ・sudo apt install ros-melodic-gmapping
 
